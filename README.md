@@ -26,7 +26,7 @@ How to Use
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/calculator.git
+git clone  https://github.com/marwan779/simple-_calculator_javascript.git
 Open index.html in your browser to start using the calculator.
 
 Code Structure
